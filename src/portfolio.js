@@ -7,21 +7,20 @@ import emoji from "react-easy-emoji";
 
 const greeting = {
   /* Your Summary And Greeting Section */
-  username: "Saad Pasta",
-  title: "Hi all, I'm Saad",
-  subTitle: emoji("A passionate Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."),
-  resumeLink: "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing"
+  username: "Cintia Garcia",
+  title: "Hi all, I'm Cintia",
+  subTitle: emoji("A passionate Student Software Developer 🚀 having an experience of building Projects in C++, Java and Python."),
+  resumeLink: ""
 };
 
 // Your Social Media Link
 
 const socialMediaLinks = {
 
-  github: "https://github.com/saadpasta",
-  linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7"
+  github: "https://github.com/cintiagarcia",
+  linkedin: "https://www.linkedin.com/in/cintiagarciagarces/",
+  gmail: "cintia.garcia.garces@gmail.com",
+  gitlab: "",
   // Instagram and Twitter are also supported in the links!
 };
 
@@ -29,7 +28,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What i do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "STUDENT SOFTWARE DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji("⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"),
     emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
