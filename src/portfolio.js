@@ -27,12 +27,11 @@ const socialMediaLinks = {
 // Your Skills Section
 
 const skillsSection = {
-  title: "What i do",
+  title: "What i want",
   subTitle: "STUDENT SOFTWARE DEVELOPER WHO WANTS TO EXPLORE DATA SCIENCE",
   skills: [
-    emoji("⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
-    emoji("⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean")
+    emoji("⚡ Highly motivated to get deep in Data Science and Machine Learning"),
+    emoji("⚡ Artificial Intelligence awakens in me a great curiosity")
   ],
 
   /* Make Sure You include correct Font Awesome Classname to view your icon
@@ -41,7 +40,7 @@ const skillsSection = {
   softwareSkills: [
     {
       skillName: "C++",
-      fontAwesomeClassname: "fab fa-C++"
+      fontAwesomeClassname: "fab fa-cuttlefish"
     },
     {
       skillName: "python",
