@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9f34858796a1520699b447dcd4f6f38d",
+    "revision": "e484882ea25a9ddff4e191688d09ef74",
     "url": "/index.html"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.54df59d4.chunk.css"
   },
   {
-    "revision": "cc8893dbc1609687d071",
+    "revision": "adf7b46b5e610500ebd1",
     "url": "/static/css/main.66ecd12b.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.be4995a0.chunk.js"
   },
   {
-    "revision": "cc8893dbc1609687d071",
-    "url": "/static/js/main.08878c77.chunk.js"
+    "revision": "adf7b46b5e610500ebd1",
+    "url": "/static/js/main.ba34a4b0.chunk.js"
   },
   {
     "revision": "52a0be7a0e192a86c04f",
@@ -42,10 +42,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
-  },
-  {
-    "revision": "c59720d63dc3595a12e1c7e641a1bfa5",
-    "url": "/static/media/airbnbLogo.c59720d6.png"
   },
   {
     "revision": "eace3b1bfda113f92eaf50f465237dba",
@@ -68,10 +64,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/codeInLogo.47a7a717.webp"
   },
   {
-    "revision": "8ddf76a14a2e3ad3ba62b46d49a75a74",
-    "url": "/static/media/facebookLogo.8ddf76a1.png"
-  },
-  {
     "revision": "e79c639294c805688be731921368c8f8",
     "url": "/static/media/googleAssistantLogo.e79c6392.webp"
   },
@@ -88,15 +80,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/pwaLogo.ee62cb58.webp"
   },
   {
-    "revision": "4b2938b9f5ea2f1ddbd45dccaff628bc",
-    "url": "/static/media/quoraLogo.4b2938b9.png"
-  },
-  {
     "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
     "url": "/static/media/saayaHealthLogo.25018d29.webp"
   },
   {
     "revision": "0288c5ec7a87ea73f8d14b12fc4bc94e",
     "url": "/static/media/talksCardBack.0288c5ec.svg"
+  },
+  {
+    "revision": "20bc3fc403b834d41bc7dc5a28891c21",
+    "url": "/static/media/udima.20bc3fc4.jpg"
   }
 ]);
