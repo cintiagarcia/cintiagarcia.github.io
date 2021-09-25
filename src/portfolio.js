@@ -9,7 +9,7 @@ const greeting = {
   /* Your Summary And Greeting Section */
   username: "Cintia Garcia",
   title: "Hi all, I'm Cintia",
-  subTitle: emoji("A passionate Student Software Developer 🚀 having an experience of building Projects in C++, Java and Python."),
+  subTitle: emoji("A passionate Student Software Developer 🚀 having an experience of building Projects in C++, Java, Python and JavaScript."),
   resumeLink: ""
 };
 
@@ -27,11 +27,12 @@ const socialMediaLinks = {
 // Your Skills Section
 
 const skillsSection = {
-  title: "What i want",
-  subTitle: "STUDENT SOFTWARE DEVELOPER WHO WANTS TO EXPLORE DATA SCIENCE",
+  title: "What I looking for",
+  subTitle: "STUDENT SOFTWARE DEVELOPER WHO WANTS TO EXPLORE WEB DEVELOPMENT",
   skills: [
-    emoji("⚡ Highly motivated to get deep in Data Science and Machine Learning"),
-    emoji("⚡ Artificial Intelligence awakens in me a great curiosity")
+    emoji("⚡ Highly motivated to get deep in Web and Mobile Apps"),
+    emoji("⚡ Front End & Back End awakens in me a great curiosity"),
+    emoji("⚡ Keen problem-solving skills and relentless curiosity for applying sotware-driven solutions")
   ],
 
   /* Make Sure You include correct Font Awesome Classname to view your icon
@@ -49,6 +50,10 @@ const skillsSection = {
     {
       skillName: "java",
       fontAwesomeClassname: "fab fa-java"
+    },
+    {
+      skillName: "javascript",
+      fontAwesomeClassname: "fab fa-js"
     }
   ]
 };
@@ -63,7 +68,7 @@ const techStack = {
       progressPercentage: "50%"  //Insert relative proficiency in percentage
     },
     {
-      Stack: "Data Science",
+      Stack: "JavaScript",
       progressPercentage: "40%"
     },
     {
@@ -84,7 +89,6 @@ const workExperiences = {
       company: "UDIMA",
       companylogo: require("./assets/images/udima.jpg"),
       date: "Sept 2018 – Present",
-      desc: "Student Computer Science",
       descBullets: [
         "Mention in Business Applications"
       ]
@@ -97,11 +101,11 @@ const workExperiences = {
       desc: ""
     },
     {
-      role: "Coding Fundamentals",
-      company: "ReDI School of Digital Integration",
-      companylogo: require("./assets/images/redi.jpeg"),
-      date: "March 2020 – Jun 2020",
-      desc: "."
+      role: "Web Development",
+      company: "Ironhack",
+      companylogo:require("./assets/images/ironhack-Logo.png"),
+      date: "March 2021 – Jun 2021",
+      desc: "Full Stack Developer - Javascript (ES6), MongoDB, Express, React, NodeJS, HTML & CSS"
     },
   ]
 };
@@ -231,4 +235,4 @@ const twitterDetails = {
   userName: "twitter"//Replace "twitter" with your twitter username without @
 
 };
-export { greeting, socialMediaLinks, skillsSection, techStack, workExperiences, openSource, achievementSection, contactInfo };
+export { greeting, socialMediaLinks, skillsSection, workExperiences,techStack, bigProjects, openSource, achievementSection, contactInfo };
