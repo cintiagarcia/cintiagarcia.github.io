@@ -179,18 +179,23 @@ const achievementSection = {
 const blogSection = {
 
   title: "Blogs",
-  subtitle: "With Love for Developing cool stuff, I love to write and teach others what I have learnt.",
+  subtitle: "With Love for Developing cool stuff, I love to create some projects.",
 
   blogs: [
     {
-      url: "https://blog.usejournal.com/create-a-google-assistant-action-and-win-a-google-t-shirt-and-cloud-credits-4a8d86d76eae",
-      title: "Win a Google Assistant Tshirt and $200 in Google Cloud Credits",
-      description: "Do you want to win $200 and Google Assistant Tshirt by creating a Google Assistant Action in less then 30 min?"
+      url: "https://cryptowallet-reviews.herokuapp.com/",
+      title: "Crypto Wallet Review",
+      description: "It is a full stack CRUD application that uses Node, Express,MongoDB, Mongoose, Handlebars, Node basic authentication with bcrypt and Cloudinary. "
     },
     {
-      url: "https://medium.com/@saadpasta/why-react-is-the-best-5a97563f423e",
-      title: "Why REACT is The Best?",
-      description: "React is a JavaScript library for building User Interface. It is maintained by Facebook and a community of individual developers and companies."
+      url: "https://www.cintiagarciagarces.com/GuessWho_game/",
+      title: "Guess Who Game?",
+      description: "It is a application game that uses HTML, CSS and JavaScript."
+    },
+    {
+      url: " https://baby-onthemove.herokuapp.com/",
+      title: "Rental Stuff",
+      description: "It is a full stack application that uses React, Node, Express, MongoDB, Mongoose, authentication with passport and Cloudinary."
     }
   ]
 };
@@ -235,4 +240,4 @@ const twitterDetails = {
   userName: "twitter"//Replace "twitter" with your twitter username without @
 
 };
-export { greeting, socialMediaLinks, skillsSection, workExperiences,techStack, bigProjects, openSource, achievementSection, contactInfo };
+export { greeting, socialMediaLinks, skillsSection, workExperiences,techStack,openSource, bigProjects, blogSection, achievementSection, contactInfo };

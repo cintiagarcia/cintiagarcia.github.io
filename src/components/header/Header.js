@@ -26,19 +26,19 @@ function Header() {
               <a href="#experience">Education</a>
             </li>
           }
-          <li>
+          {/*<li>
             <a href="#opensource">Projects</a>
-          </li>
+          </li>*/}
           {/* <li>
             <a href="#projects">Projects</a>
           </li> */}
           {/* <li>
             <a href="#achievements">Achievements</a>
           </li> */}
-          {/* <li>
-            <a href="#blogs">Blogs</a>
-          </li>
           <li>
+            <a href="#blogs">Projects</a>
+          </li>
+          {/*<li>
             <a href="#talks">Talks</a>
           </li> */}
           <li>
