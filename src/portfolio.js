@@ -84,6 +84,15 @@ const techStack = {
 const workExperiences = {
   viewExperiences: true, //Set it to true to show workExperiences Section
   experience: [
+
+    {
+      role: "Web Development",
+      company: "Ironhack",
+      companylogo:require("./assets/images/ironhack-Logo.png"),
+      date: "March 2021 – Jun 2021",
+      desc: "Full Stack Developer - Javascript (ES6), MongoDB, Express, React, NodeJS, HTML & CSS"
+    },
+
     {
       role: "Bachelor's Degree in Computer Engineering",
       company: "UDIMA",
@@ -93,6 +102,7 @@ const workExperiences = {
         "Mention in Business Applications"
       ]
     },
+
     {
       role: "Degree in Business Administration and Management",
       company: "Uva",
@@ -100,13 +110,7 @@ const workExperiences = {
       date: "Sep 2002 – Jun 2008",
       desc: ""
     },
-    {
-      role: "Web Development",
-      company: "Ironhack",
-      companylogo:require("./assets/images/ironhack-Logo.png"),
-      date: "March 2021 – Jun 2021",
-      desc: "Full Stack Developer - Javascript (ES6), MongoDB, Express, React, NodeJS, HTML & CSS"
-    },
+    
   ]
 };
 
